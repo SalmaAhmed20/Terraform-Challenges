@@ -6,7 +6,7 @@ Soluations of Terraform Challenges course on KodeKloud that ensure you mastering
 Every Challenge start with Installation of terraform 
 
 1- find requested verison of terraform here
-https://releases.hashicorp.com/terraform/<verison>
+https://releases.hashicorp.com/terraform/ < verison >
 
 2- wget "link of release"
 ```bash
