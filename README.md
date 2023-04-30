@@ -19,4 +19,13 @@ https://releases.hashicorp.com/terraform/<verison>
 
     
 ## Challenge 1
-it's about makeing Kubernetes Deployemet
+it's about making Kubernetes Deployemet
+![Screenshot 2023-04-30 175146](https://user-images.githubusercontent.com/64385957/235361192-6cee7028-b3be-4d92-8804-7333573ef4b8.png)
+
+## Challenge 2
+it's about deploying web app using docker
+![Screenshot 2023-04-30 171509](https://user-images.githubusercontent.com/64385957/235361227-f1b3e9c9-d8fe-4846-b843-0585ba693161.png)
+
+## Challenge 3
+it's about deploying aws infrastructure
+![Screenshot 2023-04-30 174747](https://user-images.githubusercontent.com/64385957/235361266-cb02141b-1963-469a-9aec-18157ceeaccd.png)
