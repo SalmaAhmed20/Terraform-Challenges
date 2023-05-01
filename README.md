@@ -14,7 +14,7 @@ https://releases.hashicorp.com/terraform/ < verison >
   sudo apt update
   sudo apt install unzip
   unzip terraform_1.1.5_linux_amd64
-  mv terraform /usr/loca/bin
+  mv terraform /usr/local/bin
 ```
 
     
